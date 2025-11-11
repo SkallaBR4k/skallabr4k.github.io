@@ -1,3 +1,9 @@
 title: Skalla
-description: Project write-ups and guides
+description: Project write-ups, how-to guides, and research notes
 theme: minima
+author: Skalla
+
+# Optional settings
+show_excerpts: true
+minima:
+  date_format: "%b %-d, %Y"
